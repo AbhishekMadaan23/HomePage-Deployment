@@ -2,7 +2,7 @@ import React from "react";
 
 const Container = styled.div``;
 
-const banner = () => {
+const Banner = () => {
   return (
     <div>
       <Container>
@@ -12,4 +12,4 @@ const banner = () => {
   );
 };
 
-export default banner;
+export default Banner;

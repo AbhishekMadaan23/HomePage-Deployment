@@ -1,4 +1,5 @@
 import React from "react";
+import Banner from "./banner";
 
 const HomePage = () => {
   return (
@@ -18,6 +19,7 @@ const HomePage = () => {
         Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section
         1.10.32.
       </div>
+      <Banner />
     </div>
   );
 };
